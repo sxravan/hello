@@ -1,4 +1,4 @@
-module github.com/hello
+module github.com/sxravan/hello
 
 go 1.23.5
 
